@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manodevi Sathishkumar</h1>
 <h3 align="center">A passionate frontend developer residing in Dubai.</h3>
 
-- 💬 Ask me about **react, js**
+- 💬 Ask me about **Web Devlopment**
 
 - 📫 How to reach me **smanodevi@gmail.com**
 
